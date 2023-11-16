@@ -1,7 +1,8 @@
 import os
+
 import dj_database_url
+
 from .common import *
-import dj_database_url
 
 DEBUG = True
 
@@ -11,8 +12,4 @@ ALLOWED_HOSTS = ['shoplify-prod-5de22bcffe74.herokuapp.com''shoplify-prod-231a96
 
 DATABASES = {
     'default':dj_database_url.config()
-}
-
-DATABASES = {
-    'default': dj_database_url.config()
 }
