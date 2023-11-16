@@ -9,6 +9,6 @@ DATABASES = {
         'NAME': 'tushop',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'Mwise2002'
+        'PASSWORD': 'rootkristine'
     }
 }
