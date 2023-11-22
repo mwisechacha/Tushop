@@ -50,8 +50,9 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-'https://e-commerce-lilac-phi.vercel.app'
-    '*'
+    'http://localhost:5173',
+    'http://localhost:5173',
+    'https://shopify-ten-gamma.vercel.app'
 ]
 
 ROOT_URLCONF = 'tushop.urls'
