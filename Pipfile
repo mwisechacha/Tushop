@@ -15,6 +15,7 @@ whitenoise = "*"
 gunicorn = "*"
 waitress = "*"
 dj-database-url = "*"
+firebase-admin = "*"
 
 [dev-packages]
 
